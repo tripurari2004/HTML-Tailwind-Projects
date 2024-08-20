@@ -4,7 +4,8 @@
 Welcome to the HTML-Tailwind-Projects repository! This repository contains a collection of projects showcasing the use of Tailwind CSS for styling HTML pages.
 
 ### _Projects_ _Overview_
-+ [Razorpay](https://github.com/tripurari2004/HTML-Tailwind-Projects/tree/d46208499986013a8ad27e16e9e6e03568d22ee9/Razorpay): A UI clone of the Razorpay payment gateway website built using HTML5 and Tailwind CSS.
++ [Discord Clone](https://github.com/tripurari2004/HTML-Tailwind-Projects/tree/b18fc2e9045888214c8a6b5b3210ed9a6ba81c22/Discord%20Clone): A UI clone of the Discord payment gateway website built using HTML5 and Tailwind CSS.
++ [Razorpay Clone](https://github.com/tripurari2004/HTML-Tailwind-Projects/tree/d46208499986013a8ad27e16e9e6e03568d22ee9/Razorpay): A UI clone of the Razorpay payment gateway website built using HTML5 and Tailwind CSS.
 
 ### _Features_
 + Responsive Design: Projects are designed to be responsive and work well on various devices.
